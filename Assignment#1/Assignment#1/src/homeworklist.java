@@ -1,5 +1,5 @@
 
-/*Author- Alark Patel 
+/*
 Project 1 - Maintaining homeworklist assignment. 
 */
 import java.util.*;
